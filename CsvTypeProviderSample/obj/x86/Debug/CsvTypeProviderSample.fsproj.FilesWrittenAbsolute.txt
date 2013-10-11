@@ -1,0 +1,10 @@
+/Volumes/MacFiles/Sites/CsvTypeProviderSample/CsvTypeProviderSample/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Volumes/MacFiles/Sites/CsvTypeProviderSample/CsvTypeProviderSample/bin/Debug/CsvTypeProviderSample.exe.mdb
+/Volumes/MacFiles/Sites/CsvTypeProviderSample/CsvTypeProviderSample/bin/Debug/CsvTypeProviderSample.exe
+/Volumes/MacFiles/Sites/CsvTypeProviderSample/CsvTypeProviderSample/obj/x86/Debug/CsvTypeProviderSample.exe
+/Volumes/MacFiles/Sites/CsvTypeProviderSample/CsvTypeProviderSample/obj/x86/Debug/CsvTypeProviderSample.exe.mdb
+/Volumes/MacFiles/Sites/CsvTypeProviderSample/CsvTypeProviderSample/bin/Debug/FSharp.Data.dll
+/Volumes/MacFiles/Sites/CsvTypeProviderSample/CsvTypeProviderSample/bin/Debug/FSharp.Data.DesignTime.dll
+/Volumes/MacFiles/Sites/CsvTypeProviderSample/CsvTypeProviderSample/bin/Debug/FSharp.Core.dll
+/Volumes/MacFiles/Sites/CsvTypeProviderSample/CsvTypeProviderSample/bin/Debug/policy.2.3.FSharp.Core.dll
+/Volumes/MacFiles/Sites/CsvTypeProviderSample/CsvTypeProviderSample/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
